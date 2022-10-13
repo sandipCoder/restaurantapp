@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "atuny0",
+      "email": "atuny0@sohu.com",
+      "password": "atuny0"
+    },
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "restarant": [
+    {
+      "name": "dfasdfsf1254",
+      "address": {
+        "address": "dfsfsdf",
+        "city": "fsdfsdfsdf"
+      },
+      "bookDate": "2022-10-27",
+      "time": "08:39",
+      "id": "1w6ldl0vp1w"
+    },
+    {
+      "name": "Apsara",
+      "address": {
+        "address": "fsdfdsfdsfsdfsd",
+        "city": "pune"
+      },
+      "bookDate": "2022-10-20",
+      "time": "16:56",
+      "id": "9z4nqa8v5hm"
+    }
+  ]
+}
